@@ -13,6 +13,7 @@
 
 <body>
   <div class="container">
+    <!-- Section Form input -->
     <div class="title">
       <h1>Latihan1 Dasar PHP</h1>
     </div>
@@ -31,6 +32,7 @@
         </div>
       </form>
     </div>
+    <!-- Section OUTPUT -->
     <div class="output">
       <div class="title">
         <h1>Output</h1>
